@@ -1,4 +1,4 @@
-# Relation-classification([Project Tutorial](https://liftkkkk.github.io/FLEXNER/))
+# Relation-classification([Project Tutorial](https://zzzlift.github.io/Relation-classification/))
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
