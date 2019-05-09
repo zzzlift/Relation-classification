@@ -14,3 +14,6 @@ This toolkit is used to accelerate the construction of relational extraction neu
 * [Suggested Datasets](#suggested-datasets)
   * [Using Your Data](#using-your-data)
 * [Updating](#updating)
+
+## Updating...
+* 2019-May-9, RC v0.1, initial version
